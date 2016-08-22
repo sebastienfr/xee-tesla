@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/sebastienfr/xee-tesla",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jsgoecke/tesla",
+			"Rev": "23ed2fa3dbab896120b46602cc6faedf23e66fcd"
+		},
+		{
+			"ImportPath": "github.com/urfave/cli",
+			"Comment": "v1.17.0-79-g6011f16",
+			"Rev": "6011f165dc288c72abd8acd7722f837c5c64198d"
+		}
+	]
+}
